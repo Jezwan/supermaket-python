@@ -1,0 +1,3 @@
+# supermaket-python
+
+work in progress...
